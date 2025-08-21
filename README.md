@@ -17,9 +17,17 @@ Este proyecto es una aplicación que permite convertir números entre diferentes
 - Pytest (para pruebas unitarias)
 - Git (control de versiones)
 
-## Instalación y Uso
+## Descarga y Uso
 
-### Prerrequisitos
+### Opción 1: Descargar el Ejecutable (Recomendado para usuarios de Windows)
+
+1. Ve a la sección de [Releases](https://github.com/JC-DEV-EC/conversor_sistemas_numericos/releases) del repositorio
+2. Descarga el archivo `conversor_sistemas_numericos.exe` de la última versión
+3. Ejecuta el archivo descargado directamente, no requiere instalación
+
+### Opción 2: Instalación desde el Código Fuente
+
+#### Prerrequisitos
 - Python 3.x instalado
 - Git (opcional, para clonar el repositorio)
 
