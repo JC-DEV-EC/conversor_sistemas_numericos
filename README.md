@@ -2,6 +2,20 @@
 
 Este proyecto es una aplicación que permite convertir números entre diferentes sistemas numéricos (decimal, binario, octal y hexadecimal). Es una herramienta educativa y práctica que facilita la comprensión y manipulación de números en distintas bases.
 
+## Capturas de Pantalla
+
+<div align="center">
+
+### Pantalla de Carga
+<img src="docs/images/loader.png" alt="Pantalla de Carga" width="200">
+<p><em>La aplicación muestra una elegante pantalla de carga al iniciar, indicando que el sistema se está preparando.</em></p>
+
+### Ventana Principal
+<img src="docs/images/ventana_principal.png" alt="Ventana Principal" width="600">
+<p><em>Interfaz principal del conversor, donde podrás realizar todas las conversiones entre sistemas numéricos de manera intuitiva.</em></p>
+
+</div>
+
 ## Objetivos del Proyecto
 
 - Proporcionar una interfaz intuitiva para la conversión entre sistemas numéricos
